@@ -64,7 +64,7 @@ setup(
         "dark-theme",
         "set3-pallete"
     ],
-    url="https://github.com/davidluna-fn/darkstyle/",
+    url="https://github.com/davidluna-fn/set3plots/",
     install_requires=['matplotlib', ],
     cmdclass={'install': PostInstallMoveFile, },
 )
